@@ -14,6 +14,9 @@ public class Client{
         test_array_2.add(new ArrayList<>(Arrays.asList(1, 0, 0, 1, 1, 1, 1, 1 )));
         for (ArrayList<Integer> row : test_array_2) {
             System.out.println(row);
+
+
+            
         }
 
     }
